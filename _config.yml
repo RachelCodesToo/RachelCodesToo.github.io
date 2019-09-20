@@ -1,11 +1,11 @@
 # Site settings
-author: Anne Fausto
-title: 
+author: Anne Rachel Fausto
+title: RachelCodesToo
 header-img: img/home-bg.png
 email: a.r.fausto@gmail.com
-copyright_name: Anne Fausto
+copyright_name: Anne Rachel Fausto
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Rachel's Code Blurb
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: MisZ_RaCheL
 github_username:  RachelCodesToo
