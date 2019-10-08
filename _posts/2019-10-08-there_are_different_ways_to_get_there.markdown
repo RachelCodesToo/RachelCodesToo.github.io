@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "There are different ways to get there. "
-date:       2019-10-08 12:39:01 +0000
+date:       2019-10-08 08:39:02 -0400
 permalink:  there_are_different_ways_to_get_there
 ---
 
